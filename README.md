@@ -1,2 +1,2 @@
-# Trading_Platporm
+# Trading_Platform
 Algo works
